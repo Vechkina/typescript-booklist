@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/typescript-booklist/static/js/main.f7de12a0.js",
+    "index.html": "/typescript-booklist/index.html",
+    "main.f7de12a0.js.map": "/typescript-booklist/static/js/main.f7de12a0.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f7de12a0.js"
+  ]
+}
